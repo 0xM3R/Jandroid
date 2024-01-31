@@ -23,6 +23,6 @@
     "espree": "^3.0.0",
     "vulcanize": "^1.16.0",
     "webpack": "^4.16.1",
-    "webpack-command": "^0.4.1"
+    "webpack-command": "^0.5.1"
   }
 }
