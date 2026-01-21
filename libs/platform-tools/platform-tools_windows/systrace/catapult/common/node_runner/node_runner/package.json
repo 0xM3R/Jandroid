@@ -22,7 +22,7 @@
     "eslint-plugin-html": "^4.0.0",
     "espree": "^3.0.0",
     "vulcanize": "^1.16.0",
-    "webpack": "^4.16.1",
+    "webpack": "^5.0.0",
     "webpack-command": "^0.4.1"
   }
 }
